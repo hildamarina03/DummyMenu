@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/item_add"
+        android:title="@string/pop_menu_add_text"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_like"
+        android:title="@string/context_menu_like_text"
+        android:icon="@drawable/ic_action_like" />
+
+    <item
+        android:id="@+id/item_dislike"
+        android:title="@string/context_menu_dislike_text"
+        android:icon="@drawable/ic_action_dislike" />
+
+    <item
+        android:id="@+id/item_hilda"
+        android:title="Hilda"
+        android:icon="@mipmap/ic_hilda"
+        app:showAsAction="always" />
+
+</menu>
