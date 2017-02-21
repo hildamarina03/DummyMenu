@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DummyMenu</string>
+    <string name="hello_txtview_text">Hello World!</string>
+    <string name="menu_file_text">File</string>
+    <string name="menu_search_text">Search</string>
+    <string name="menu_quit_file">Quit</string>
+    <string name="menu_compare_text">Compare</string>
+    <string name="menu_copy_text">Copy</string>
+    <string name="menu_cut_text">Cut</string>
+    <string name="menu_paste_text">Paste</string>
+    <string name="context_menu_like_text">Like</string>
+    <string name="context_menu_dislike_text">Dislike</string>
+    <string name="pop_menu_add_text">Add</string>
+    <string name="search_hint">keyword...</string>
 </resources>
